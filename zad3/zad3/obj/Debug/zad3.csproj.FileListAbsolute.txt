@@ -1,0 +1,7 @@
+C:\Users\4.D\source\repos\zad3\zad3\bin\Debug\zad3.exe.config
+C:\Users\4.D\source\repos\zad3\zad3\bin\Debug\zad3.exe
+C:\Users\4.D\source\repos\zad3\zad3\bin\Debug\zad3.pdb
+C:\Users\4.D\source\repos\zad3\zad3\obj\Debug\zad3.csprojAssemblyReference.cache
+C:\Users\4.D\source\repos\zad3\zad3\obj\Debug\zad3.csproj.CoreCompileInputs.cache
+C:\Users\4.D\source\repos\zad3\zad3\obj\Debug\zad3.exe
+C:\Users\4.D\source\repos\zad3\zad3\obj\Debug\zad3.pdb
